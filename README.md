@@ -4,9 +4,10 @@
 ```
 https://sutdapac-my.sharepoint.com/:f:/g/personal/gihan_appuhamilage_mymail_sutd_edu_sg/EkzMG0b83f1Ni5dh-KxZ6U4BH8bj5rxQERRDwAQnGY82Mg?e=o2BNrD
 ```
-1. Open two terminals: T#1, T#2
-
+1. Open two terminals: T#1, T#2  
+  
 **T#1**  
+  
 2. Clone the repo.  
 3. Build the workspace.  
 ```
@@ -20,7 +21,9 @@ source install/setup.bash
 ```
 ros2 run uwb_sar sar_node
 ```
+
 **T#2**  
+  
 1. Play the _ROS2 bag file_:
 ```
 ros2 bag play rosbag2_2025_aria
