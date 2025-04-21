@@ -6,9 +6,9 @@ https://sutdapac-my.sharepoint.com/:f:/g/personal/gihan_appuhamilage_mymail_sutd
 ```
 1. Open two terminals: T#1, T#2
 
-**T#1** 
-2. Clone the repo.
-3. Build the workspace.
+**T#1**  
+2. Clone the repo.  
+3. Build the workspace.  
 ```
 colcon build
 ```
